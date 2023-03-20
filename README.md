@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Jaiswal</h1>
+<p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&center=true&vCenter=true&lines=Computer+Science+Engineering+Student.;Full+Stack+Web+Developer.;Interested+in+AI+%7C+ML+...;Computer+Vision+%7C+AR"></a>
 </p>
 <hr/>
