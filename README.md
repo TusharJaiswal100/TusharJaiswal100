@@ -6,7 +6,6 @@
 🌱 I am a coding enthusiast
 <br>
 💬 Ask me about Data Structures and Web development
-<br>
 📫 How to reach me tushar6390jaiswal@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
