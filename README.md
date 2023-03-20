@@ -5,6 +5,14 @@
 <hr/>
 🌱 I am a coding enthusiast
 <br>
+🌱 3 ⭐️ at Leetcode
+<br>
+🌱 Solved 500+ problems on Leetcode
+<br>
+🌱 Solved 200+ problems on GFG
+<br>
+🌱 Solved 500+ problems on various Competitive Programming Platforms(Codeforces, Codechef)
+<br>
 💬 Ask me about Data Structures and Web development
 <br>
 📫 How to reach me tushar6390jaiswal@gmail.com
