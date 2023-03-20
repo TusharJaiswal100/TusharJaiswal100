@@ -27,6 +27,11 @@
 <h3 align="left">Project Links:</h3>
 <p align="left">
 <a href="https://chatgpt-messanger-nine.vercel.app/">ChatGPT Messenger</a>
+ <br>
+  <a href="https://netflix-clone-ui.onrender.com/">Netflix Clone</a>
+  <br>
+  <a href="https://password-generator-eight-delta.vercel.app/">Password Generator</a>
+  <br>
 </p>
 
 <h3 align="left">Coding Profile Links:</h3>
