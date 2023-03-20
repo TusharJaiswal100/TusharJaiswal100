@@ -39,7 +39,6 @@
  <a href="https://www.leetcode.com/tushar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar23" height="30" width="40" /></a>
  <a href="https://codeforces.com/profile/tushar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushar23" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tushar270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar270" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tushar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar23" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tushar270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tushar270" height="30" width="40" /></a>
 </p>
 
