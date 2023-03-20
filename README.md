@@ -26,7 +26,7 @@
 
 <h3 align="left">Project Links:</h3>
 <p align="left">
-<h6>ChatGPT Messenger</h6> <a href="https://chatgpt-messanger-nine.vercel.app/" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/ChatGPT#/media/File:ChatGPT_logo.svg" height="30" width="40" /></a>
+<h6>ChatGPT Messenger</h6> Link: <a href="https://chatgpt-messanger-nine.vercel.app/"</a>
 </p>
 
 <h3 align="left">Coding Profile Links:</h3>
