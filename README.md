@@ -38,7 +38,7 @@
 <p align="left">
  <a href="https://www.leetcode.com/tushar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar23" height="30" width="40" /></a>
  <a href="https://codeforces.com/profile/tushar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushar23" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tushar270" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="tushar270" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tushar270" target="blank"><img align="center" src="https://www.saashub.com/images/app/service_logos/41/fb1029f65050/large.png?1582014860" alt="tushar270" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tushar270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tushar270" height="30" width="40" /></a>
 </p>
 
