@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Jaiswal</h1>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&center=true&vCenter=true&lines=Information+Technology+Engineering+Student.;Full+Stack+Web+Developer."></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&center=true&vCenter=true&lines=Information+Technology+Engineering+Student.;+ Competitive Programmer,;+ Full+Stack+Web+Developer."></a>
 </p>
 <hr/>
 - 💬 Ask me about **Data Structures and Web development**
