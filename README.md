@@ -16,6 +16,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharjaiswal100&show_icons=true&locale=en" alt="tusharjaiswal100" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharjaiswal100&" alt="tusharjaiswal100" /></p>
 
+
+<h3 align="left">Coding Profile Links:</h3>
+<p align="left">
+ <a href="https://www.leetcode.com/tushar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar23" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/tushar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushar23" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tushar270" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar270" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tushar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar23" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/tushar270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tushar270" height="30" width="40" /></a>
+</p>
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tusharj17610811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tusharj17610811" height="30" width="40" /></a>
