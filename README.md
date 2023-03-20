@@ -24,6 +24,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharjaiswal100&show_icons=true&locale=en" alt="tusharjaiswal100" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharjaiswal100&" alt="tusharjaiswal100" /></p>
 
+<h3 align="left">Project Links:</h3>
+<p align="left">
+ChatGPT Messenger <a href="https://chatgpt-messanger-nine.vercel.app/" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/ChatGPT#/media/File:ChatGPT_logo.svg" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Coding Profile Links:</h3>
 <p align="left">
