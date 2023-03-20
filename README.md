@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=IT Engineering Student;+ Competitive Programmer;+ Full+Stack+Web+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 <hr/>
+🌱 I am a coding enthusiast
 💬 Ask me about Data Structures and Web development
 
 📫 How to reach me tushar6390jaiswal@gmail.com
