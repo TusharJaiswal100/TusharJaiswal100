@@ -7,7 +7,7 @@
 <br>
 🌱 3 ⭐️ at Leetcode
 <br>
-🌱 Solved 500+ problems on Leetcode
+🌱 Solved 700+ problems on Leetcode
 <br>
 🌱 Solved 200+ problems on GFG
 <br>
