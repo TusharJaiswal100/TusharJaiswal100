@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=IT Engineering Student;+ Competitive Programmer;+ Full+Stack+Web+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 <hr/>
-🌱 I am a coding enthusiast
-<br>
 🌱 3.5 ⭐️ at Leetcode
 <br>
 🌱 Solved 1000+ problems on Leetcode
@@ -12,6 +10,8 @@
 🌱 Solved 200+ problems on GFG
 <br>
 🌱 Solved 800+ problems on various Competitive Programming Platforms(Codeforces, Codechef)
+<be>
+🌱 Full Stack Developer
 <br>
 💬 Ask me about Data Structures and Web development
 <br>
