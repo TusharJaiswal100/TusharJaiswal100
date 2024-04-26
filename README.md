@@ -5,13 +5,13 @@
 <hr/>
 🌱 I am a coding enthusiast
 <br>
-🌱 3 ⭐️ at Leetcode
+🌱 3.5 ⭐️ at Leetcode
 <br>
-🌱 Solved 750+ problems on Leetcode
+🌱 Solved 1000+ problems on Leetcode
 <br>
 🌱 Solved 200+ problems on GFG
 <br>
-🌱 Solved 500+ problems on various Competitive Programming Platforms(Codeforces, Codechef)
+🌱 Solved 800+ problems on various Competitive Programming Platforms(Codeforces, Codechef)
 <br>
 💬 Ask me about Data Structures and Web development
 <br>
