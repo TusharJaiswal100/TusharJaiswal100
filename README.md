@@ -10,7 +10,7 @@
 🌱 Solved 200+ problems on GFG
 <br>
 🌱 Solved 800+ problems on various Competitive Programming Platforms(Codeforces, Codechef)
-<be>
+<br>
 🌱 Full Stack Developer
 <br>
 💬 Ask me about Data Structures and Web development
